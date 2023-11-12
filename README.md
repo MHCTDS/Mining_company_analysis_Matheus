@@ -1,7 +1,8 @@
 Mining_company_analysis
 ==============================
 
-An analysis of a gold mining company with the aim to predict the purity of final extraction based on initial factors using ML.Data was provided by Zyfra
+An analysis of a gold mining company with the aim to predict the purity of final extraction based on initial factors using ML.
+Data was provided by Zyfra
 
 Project Organization
 ------------
